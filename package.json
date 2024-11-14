@@ -1,0 +1,19 @@
+{
+    "name": "back-end",
+    "version": "1.0.0",
+    "description": "Criação do código para a aula de back-end",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "amig": "node 0-amigo/index.js",
+      "poo": "node 1-carro/index.js",
+      "enca": "node 2-conta/index.js",
+      "abst": "node 3-ampulheta/index.js",
+      "hera": "node 4-pessoa/index.js",
+      "poli": "node 5-seres/index.js"
+    },
+    "author": "Vinícius Rocha",
+    "license": "MIT"
+  }
+  
